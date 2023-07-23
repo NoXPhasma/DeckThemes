@@ -1,0 +1,12 @@
+{
+  "name": "Hide Discovery Queue",
+  "author": "NoXPhasma",
+  "version": "v1.0",
+  "manifest_version": 5,
+  "inject": {
+    "shared.css": [
+      "SP"
+    ]
+  },
+  "dependencies": {}
+}
